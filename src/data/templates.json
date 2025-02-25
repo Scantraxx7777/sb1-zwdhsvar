@@ -1,0 +1,40 @@
+{
+  "templates": [
+    {
+      "id": "template-1",
+      "name": "Modern Portfolio",
+      "description": "A sleek and professional portfolio template perfect for creatives and developers.",
+      "price": 49,
+      "previewUrl": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?w=400",
+      "category": "Portfolio",
+      "features": ["Responsive Design", "Dark Mode", "Blog Section", "Project Showcase"],
+      "isFree": false,
+      "downloadUrl": "/downloads/template-1.zip"
+    },
+    {
+      "id": "template-2",
+      "name": "Business Landing",
+      "description": "Convert visitors into customers with this high-converting landing page template.",
+      "price": 79,
+      "previewUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+      "category": "Landing Page",
+      "features": ["SEO Optimized", "Fast Loading", "Lead Generation Forms", "Analytics Integration"],
+      "isFree": false,
+      "downloadUrl": "/downloads/template-2.zip"
+    },
+    {
+      "id": "template-3",
+      "name": "Simple Blog",
+      "description": "Start your blogging journey with this clean and minimal blog template.",
+      "price": 0,
+      "previewUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=400",
+      "category": "Blog",
+      "features": ["Minimal Design", "RSS Feed", "Social Sharing", "Comments Section"],
+      "isFree": true,
+      "downloadUrl": "/downloads/template-3.zip"
+    }
+  ]
+}
